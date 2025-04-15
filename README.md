@@ -71,19 +71,17 @@ employee-attrition-modeling-ml/ │ ├── data/ # Source or local datasets �
 ## Getting Started
 
 1. Clone the repository:
+
 ```bash
+
 git clone https://github.com/yourusername/employee-attrition-modeling-ml.git
+
 Install dependencies:
 
-bash
-Copy
-Edit
 pip install -r requirements.txt
+
 Run the script:
 
-bash
-Copy
-Edit
 python scripts/employee_attrition_model.py
 
 Future Additions
